@@ -1,4 +1,4 @@
-# SQLAlchemy-Challenge
+# SQLAlchemy Climate Data Analysis and Exploration
 
 ## About The Project
 
